@@ -372,7 +372,7 @@ st.markdown('<p class="mood-label">Klik buat bikin Reyna seneng~ 🥺👇</p>', 
 responses = [
     ("rose-bg",  "🌸", "aaaaaaa makasih udah maafin yaa!!",        "kamu baik dehhh. Semoga Lebarannmu penuh berkah ya! 💛🌿"),
     ("peach-bg", "🤗", "yyeeay! sama-sama dimaafin~",              "selamat menikmati ketupat & opor, jangan lupa THRnya disimpannn yee~ 🫙😄"),
-    ("sage-bg",  "🌿", "alhamdulillah, legaaaaa bangettt!",        "saaf lahir batin ya! Semoga hari-hari kita makin indah ke depannya. ✨"),
+    ("sage-bg",  "🌿", "alhamdulillah, legaaaaa bangettt!",        "maaf lahir batin ya! ssemoga hari-hari kita makin indah ke depannya. ✨"),
     ("lav-bg",   "💜", "ini bikin hati jadi plongg dehh~",         "semoga silaturahmi kita terus terjaga. Selamat Lebaran! 🌙💛"),
     ("rose-bg",  "🥰", "thanks udah buka hati buat maafin aku~",   "semoga kita sama-sama jadi pribadi yang lebih baik setelah Ramadan ini yyaa. 🌿🌙"),
 ]
