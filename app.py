@@ -359,7 +359,7 @@ st.markdown("""
     <div class="sig">
         <div class="sig-ava">R</div>
         <div class="sig-words">
-            Taqabbalallahu minna wa minkum.<br>
+            تَقَبَّلَ اللَّهُ مِنَّا وَمِنْكُمْ صِيَامَنَا وَصِيَامَكُمْ.<br>
             Salam hangat & penuh cinta, <em>Reyna</em> 💛🌿
         </div>
     </div>
