@@ -352,7 +352,7 @@ st.markdown("""
     <div class="msg-headline">Selamat Hari Raya Idul Fitri 1447 Hijriah 🌙✨</div>
     <div class="msg-body">
         <p>Semoga hari yang suci ini membawa ketenangan, kebahagiaan, dan kebaikan untuk kita semua.</p>
-        <p>Di momen yang penuh cahaya ini, aku, <strong>Reyna</strong>, ingin memohon maaf lahir dan batin atas segala kekhilafan — baik dalam pertemuan, percakapan, atau hal kecil yang mungkin terlewat. Kita mungkin tidak selalu dekat, tapi aku tetap menghargai setiap hubungan yang terjalin, sekecil apa pun itu. 🌸</p>
+        <p>Di momen yang penuh cahaya ini, aku, <strong>Reyna</strong>, ingin memohon maaf lahir dan batin atas segala kekhilafan baik dalam pertemuan, percakapan, atau hal kecil yang mungkin terlewat. Kita mungkin tidak selalu dekat, tapi aku tetap menghargai setiap hubungan yang terjalin, sekecil apa pun itu. 🌸</p>
         <p>Semoga Allah menerima ibadah kita dan membuka jalan-jalan baru yang lebih baik.</p>
         <p>Semoga hati kita dilembutkan, langkah kita dimudahkan, dan hari-hari ke depan terasa lebih damai.</p>
     </div>
@@ -370,12 +370,11 @@ st.markdown("""
 st.markdown('<p class="mood-label">Klik buat bikin Reyna seneng~ 🥺👇</p>', unsafe_allow_html=True)
 
 responses = [
-    ("rose-bg",  "🌸", "Aaaaaa makasih udah maafin aku!!",        "Kamu baik banget. Semoga Lebaran kamu penuh berkah ya! 💛🌿"),
-    ("peach-bg", "🤗", "Yeay! Sama-sama dimaafin~",               "Selamat menikmati ketupat & opor, jangan lupa THR-nya disimpan~ 🫙😄"),
-    ("sage-bg",  "🌿", "Alhamdulillah, legaaaaa banget!",          "Maaf lahir batin ya! Semoga hari-hari kita makin indah ke depannya. ✨"),
-    ("lav-bg",   "💜", "Ini bikin hati jadi hangat beneran~",      "Semoga silaturahmi kita terus terjaga. Selamat Lebaran! 🌙💛"),
-    ("gold-bg",  "✨", "Kamu snack favorit aku— eh, maksudnya...", "Maksudnya kamu orangnya manis kayak nastar! Selamat Idul Fitri 🍪💛"),
-    ("rose-bg",  "🥰", "Makasih udah buka hati~",                  "Semoga kita sama-sama jadi pribadi yang lebih baik setelah Ramadan ini. 🌿🌙"),
+    ("rose-bg",  "🌸", "aaaaaaa makasih udah maafin yaa!!",        "kamu baik dehhh. Semoga Lebarannmu penuh berkah ya! 💛🌿"),
+    ("peach-bg", "🤗", "yyeeay! sama-sama dimaafin~",              "selamat menikmati ketupat & opor, jangan lupa THRnya disimpannn yee~ 🫙😄"),
+    ("sage-bg",  "🌿", "alhamdulillah, legaaaaa bangettt!",        "saaf lahir batin ya! Semoga hari-hari kita makin indah ke depannya. ✨"),
+    ("lav-bg",   "💜", "ini bikin hati jadi plongg dehh~",         "semoga silaturahmi kita terus terjaga. Selamat Lebaran! 🌙💛"),
+    ("rose-bg",  "🥰", "thanks udah buka hati buat maafin aku~",   "semoga kita sama-sama jadi pribadi yang lebih baik setelah Ramadan ini yyaa. 🌿🌙"),
 ]
 
 col_l, col_c, col_r = st.columns([1, 2, 1])
